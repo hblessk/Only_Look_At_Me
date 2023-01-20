@@ -1,10 +1,10 @@
-## 👸🤴 **'학습시킨 사람 외 블러처리' 인공지능 AI**
+## 👸🤴 **'학습시킨 사람 라벨링 및 그 외 블러처리' 인공지능 AI**
 
 ### 실행 버전 : Python 3.7
 
 #### Mosaic unregisterd personal face for privacy
 
-Only Look at me with Open-Cv Python
+Only Look at me with Open-cv Python
 
 ✔ labeling and bluring 💖
 
