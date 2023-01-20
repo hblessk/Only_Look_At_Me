@@ -23,7 +23,7 @@ Only Look at me with Open-cv Python
 - dlib
 
 
-**import  face_recognition 문제 해결** 
+**import  face_recognition 문제 해결 ** 
 
 
 1. dlib 설치가 안될 경우
