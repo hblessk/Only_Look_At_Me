@@ -2,7 +2,7 @@
 
 ### 실행 버전 : Python 3.7
 
-#### Only_Look_at_me with Open-Cv Python
+#### Only Look at me with Open-Cv Python
 
 
 
@@ -12,9 +12,9 @@
 **import face_recognition** 
 
 
-dlib 설치가 안되서 https://github.com/Daiera/some_Resources/blob/master/dlib-19.17.0-cp37-cp37m-win_amd64.whl 검색후 파일 다운
+#### 1. dlib 설치가 안되서 https://github.com/Daiera/some_Resources/blob/master/dlib-19.17.0-cp37-cp37m-win_amd64.whl 검색후 파일 다운
 
 
-다운 파일 파이참폴더로 옮기고 pip install dlib-19.17.0-cp37-cp37m-win_amd64.whl     # pip install face_recognition
+#### 2. 다운 파일 파이참폴더로 옮기고 pip install dlib-19.17.0-cp37-cp37m-win_amd64.whl     # pip install face_recognition
 
 
