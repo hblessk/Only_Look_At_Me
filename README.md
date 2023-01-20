@@ -16,12 +16,12 @@
 **import  face_recognition 관련** 
 
 
-#### 1. dlib 설치가 안될 경우
+1. dlib 설치가 안될 경우
 
-#### https://github.com/Daiera/some_Resources/blob/master/dlib-19.17.0-cp37-cp37m-win_amd64.whl 검색후 파일 다운
+https://github.com/Daiera/some_Resources/blob/master/dlib-19.17.0-cp37-cp37m-win_amd64.whl 검색후 파일 다운
 
 
-#### 2. 다운 파일 파이참폴더로 옮기고 pip install dlib-19.17.0-cp37-cp37m-win_amd64.whl     # pip install face_recognition
+2. 다운 파일 파이참폴더로 옮기고 pip install dlib-19.17.0-cp37-cp37m-win_amd64.whl     # pip install face_recognition
 
 
 
