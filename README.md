@@ -4,7 +4,7 @@
 
 #### Only Look at me with Open-Cv Python
 
-#### labeling and bluring
+#### labeling and bluring 💖
 
 
 
