@@ -2,9 +2,9 @@
 
 ### 실행 버전 : Python 3.7
 
-#### ✔ Only Look at me with Open-Cv Python
+#### Only Look at me with Open-Cv Python
 
-#### ✔ Mosaic unregisterd personal face for privacy
+#### Mosaic unregisterd personal face for privacy
 
 #### ✔ labeling and bluring 💖
 
@@ -27,10 +27,10 @@
 
 **Requirements** 
 
+- python 3
+- Pillow
+- face_recognition
+- pickle
+- opencv-contrib-python 3.4.0.14
+- dlib
 
-#### python 3
-#### Pillow
-#### face_recognition
-#### pickle
-#### opencv-contrib-python 3.4.0.14
-#### dlib
