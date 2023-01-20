@@ -9,7 +9,7 @@
 ## 실행 프로세스▶
 
 
-**import  face_recognition** 
+**import  face_recognition 관련** 
 
 
 #### 1. dlib 설치가 안되서
