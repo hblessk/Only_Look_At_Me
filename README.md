@@ -2,9 +2,9 @@
 
 ### 실행 버전 : Python 3.7
 
-#### Only Look at me with Open-Cv Python
+#### Mosaic unregisterd personal face for privacy
 
-Mosaic unregisterd personal face for privacy
+Only Look at me with Open-Cv Python
 
 ✔ labeling and bluring 💖
 
