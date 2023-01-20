@@ -1,17 +1,20 @@
-## 🚗 **자동차 파손영역별 검사 및 가격 산출 AI** 
+## 👸🤴 **'학습시킨 사람 외 블러처리' 인공지능 AI**
 
 ### 실행 버전 : Python 3.7
 
-## 폴더구조
-
-#### code폴더
-test_2: 전체 코드 노트북 파일
+#### Only_Look_at_me with Open-Cv Python
 
 
-test_final: 간결화한 최종 노트북 파일
+
+## 실행 프로세스▶
 
 
-car_final: 최종 파이썬 파일
+**import face_recognition** 
 
 
-car_app1: 현재 진행중인 qtapp 파이썬 파일
+# dlib 설치가 안되서 https://github.com/Daiera/some_Resources/blob/master/dlib-19.17.0-cp37-cp37m-win_amd64.whl 검색후 파일 다운
+
+
+# 다운 파일 파이참폴더로 옮기고 pip install dlib-19.17.0-cp37-cp37m-win_amd64.whl     # pip install face_recognition
+
+
