@@ -4,13 +4,23 @@
 
 #### Only Look at me with Open-Cv Python
 
-#### Mosaic unregisterd personal face for privacy
+Mosaic unregisterd personal face for privacy
 
-#### ✔ labeling and bluring 💖
+✔ labeling and bluring 💖
 
 
 
 ## 실행 프로세스▶
+
+
+**Requirements** 
+
+- python 3
+- Pillow
+- face_recognition
+- pickle
+- opencv-contrib-python 3.4.0.14
+- dlib
 
 
 **import  face_recognition 관련** 
@@ -24,13 +34,4 @@ https://github.com/Daiera/some_Resources/blob/master/dlib-19.17.0-cp37-cp37m-win
 2. 다운 파일 파이참폴더로 옮기고 pip install dlib-19.17.0-cp37-cp37m-win_amd64.whl     # pip install face_recognition
 
 
-
-**Requirements** 
-
-- python 3
-- Pillow
-- face_recognition
-- pickle
-- opencv-contrib-python 3.4.0.14
-- dlib
 
