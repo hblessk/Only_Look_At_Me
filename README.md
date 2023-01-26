@@ -4,7 +4,7 @@
 
 #### Mosaic unregisterd personal face for privacy
 
-Only Look At Me with Open-cv python
+Only Look At Me with open-cv python
 
 ✔ labeling and bluring 💖
 
